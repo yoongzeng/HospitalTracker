@@ -1,0 +1,12 @@
+{
+  "name": "HospitalTracker",
+  "displayName": "HospitalTracker",
+  "expo": {
+    "name": "HospitalTracker",
+    "slug": "HospitalTracker",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
